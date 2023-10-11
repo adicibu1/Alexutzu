@@ -1,0 +1,18 @@
+body {
+    font-family: "monserat";
+    background-color: rgba(221, 236, 238, 0.932);
+}
+
+.wraper {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: auto;
+}
+.corp-principal-corp {
+    background-color: rgba(201, 148, 50, 0.959);
+   
+}
+.corp-principal-titlu {
+    background-color: rgba(216, 157, 29, 0.966);
+}
